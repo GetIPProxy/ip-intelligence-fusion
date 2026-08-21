@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pyc
+.pytest_cache/
+.coverage
+reports/
+.skill-scaffold/
+.agenthub-package-*/
+*.zip
+*.tar
+*.tar.gz
