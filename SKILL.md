@@ -1,3 +1,9 @@
+---
+name: ip-intelligence-fusion
+description: "核查单个已授权公网 IPv4/IPv6 的归属、路由、信誉与代理/欺诈风控信号，覆盖跨境电商与社媒矩阵、广告与本地 SEO、调研比价、品牌与网站测试、AI 账号、直播和多环境运营；默认本地处理，外部查询需明确确认。"
+version: 2.0.0
+---
+
 # IP Intelligence Fusion
 
 Use this skill for a single public IPv4 or IPv6 address that the operator owns, that is publicly
